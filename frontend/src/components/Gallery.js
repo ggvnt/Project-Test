@@ -41,7 +41,7 @@ export default function Gallery() {
   };
 
 
-  // Fetch media on component mount
+/*  // Fetch media on component mount
   useEffect(() => {
     axios
       .get("http://localhost:8070/media/read")
@@ -53,7 +53,7 @@ export default function Gallery() {
         alert("Error fetching media.");
       });
   }, []);
-
+*/
   return (
     <div>
       {/* Background image
