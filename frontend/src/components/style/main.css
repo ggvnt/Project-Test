@@ -1,0 +1,50 @@
+.form1{
+    width: 1430px;
+    border-style: ridge;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding-left: 20px;
+    align-content: center;
+    margin-left: 2%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+.btn.btn-primary{
+    background-color: rgb(255, 255, 255);
+    margin-right: 10px;
+    border-radius: 12px;
+    width: 150px;
+    height: 50px;
+    margin-left: 88%;
+    color: black;
+    border-style: ridge;
+    margin-top: 20px;
+}
+.background{
+   margin-left: 2.2%;
+
+}
+.media{
+    margin:auto;
+    border-style: ridge;
+    width: 700px;
+    text-align: center;
+    border-radius: 10px;
+}
+.imagename{
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.imagedescription{
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.boder{
+    width: 600px;
+    margin: auto;
+}
