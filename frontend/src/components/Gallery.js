@@ -60,7 +60,7 @@ export default function Gallery() {
       <div className="background">
         <img src="../../Images/gallery.jpg" alt="IDS" width="1440" height="400" />
       </div> */}
-      
+      {/* image add form */}
       <form className="form1" onSubmit={addContent}>
         <div className="mb-3">
           <label htmlFor="exampleFormControlInput1" className="form-label">
@@ -97,7 +97,7 @@ export default function Gallery() {
             onChange={handleFileChange}
           />
         </div>
-        <button type="submit" className="btn btn-primary">
+        <button type="submit" className="custom-button">
           Add Content
         </button>
       </form>
