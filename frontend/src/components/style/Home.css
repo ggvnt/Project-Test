@@ -64,3 +64,38 @@
     margin-bottom: 20px;
 }
 
+.overlay3 {
+    position: absolute;
+    top: 150%;
+    left: 140px;
+   
+}
+
+.btob {
+    font-size: 60px;
+    color: #000;
+    margin-bottom: 20px;
+    margin-left: 130px;
+}
+
+
+.regInfo {
+    font-size: 70px;
+    color: #000;
+    margin-bottom: 20px;
+    padding-bottom: 80px;
+}
+
+.ph{
+    width: 800px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.custom-btn{
+    width: 300px !important;
+    height: 60px !important;
+    border-radius: 80px !important;
+    margin-top: 100px;
+    margin-left: 200px;
+}
