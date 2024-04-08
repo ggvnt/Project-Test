@@ -3,6 +3,7 @@ import Header from "./components/Header";
 //import AddMedia from "./components/AddMedia";
 import gallery from "./components/Gallery";
 import Home from "./components/Home"
+import Footer from "./components/Footer"
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
           
           
         </Routes>
+        <Footer/>
       </div>
     </Router>
   );
